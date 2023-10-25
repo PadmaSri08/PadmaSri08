@@ -1,6 +1,4 @@
-### Hi there 👋 Padma Sri Pandranki
-
-
+Hi there 👋 Padma Sri Pandranki
 
 - 🔭 I’m currently working on Data Science projects.
 - 🌱 I’m currently learning Natural Language Processing
